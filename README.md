@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CourtneyNBurrage/ActiveDirectoryLab)
+  - [Home Lab](https://github.com/CourtneyNBurrage/ActiveDirectoryLab)
  
 <h2> 🏫 Course Work (Western Governor University)</h2>
 
