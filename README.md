@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CourtneyNBurrage/ActiveDirectoryLab)
  
 <h2> 🏫 Course Work (Western Governor University)</h2>
 
